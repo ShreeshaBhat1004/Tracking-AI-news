@@ -1,1 +1,1 @@
-![altera-ai](https://github.com/altera-al/project-sid)
+[altera-ai](https://github.com/altera-al/project-sid)
